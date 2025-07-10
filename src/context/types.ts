@@ -9,10 +9,3 @@ export type AuthContextProps = {
   logout: () => void;
   isLoading: boolean;
 };
-
-// Demo user for testing
-export const demoUser = {
-  email: 'demo@example.com',
-  password: 'password123',
-  name: 'Demo User'
-}; 
