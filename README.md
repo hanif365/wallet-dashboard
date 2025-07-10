@@ -1,3 +1,6 @@
+<img width="1567" height="581" alt="dashboard" src="https://github.com/user-attachments/assets/264a7bce-9717-4d24-a9c4-b25a4f3cb7f3" />
+
+
 # Wallet Dashboard Application
 
 A modern financial tracking application built with Next.js that helps users manage their transactions and monitor their finances.
