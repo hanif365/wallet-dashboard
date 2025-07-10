@@ -27,4 +27,11 @@ export const transactionsData = [
     description: "Food cost",
     date: "2025-07-03",
   },
+  {
+    id: 5,
+    type: "credit",
+    amount: 600,
+    description: "Salary deposit",
+    date: "2025-06-02",
+  },
 ];

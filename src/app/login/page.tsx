@@ -91,7 +91,7 @@ export default function LoginPage() {
                   type="email"
                   className="block text-black w-full pl-10 pr-3 py-2 border border-gray-200 rounded-md bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
                   placeholder="Enter your email"
-                  defaultValue="user@gmail.com"
+                  defaultValue="hanif@gmail.com"
                 />
               </div>
               {errors.email && (
